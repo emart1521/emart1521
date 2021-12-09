@@ -1,5 +1,7 @@
 ### Hey I'm Evan, welcome to my GitHub!
 
+LinkedIn: https://www.linkedin.com/in/evan-martin-fullstackdeveloper/
+
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![javascript](https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
@@ -12,7 +14,7 @@
 ![intellij](https://camo.githubusercontent.com/a2fdb686bf3f4bd26f142a4b60bde87647ff18e340d8251e0aea3fa551bb568e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a494445412d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465)
 
 
-LinkedIn: https://www.linkedin.com/in/evan-martin-fullstackdeveloper/
+
 
 
 <!--
